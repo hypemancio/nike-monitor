@@ -1,0 +1,19 @@
+{
+  "webhooks": [
+    {
+      "region": "us",
+      "webhook_url": ""
+    },
+    {
+      "region": "uk",
+      "webhook_url": ""
+    }
+  ],
+  "discord": {
+    "username": "Nike Monitor",
+    "avatar": "",
+    "footertext": "",
+    "footericon": ""
+  },
+  "pollMS": 2000
+}
